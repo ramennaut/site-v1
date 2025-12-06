@@ -1,4 +1,5 @@
 # [Notes by Lenz](https://www.lenz.wiki)
+This project has been discontinued.
 
 <div id="overview">
     <a href="https://www.lenz.wiki/"><img src="https://img.shields.io/badge/site-lenz.wiki-informational?style=for-the-badge&labelColor=2A2A2A&color=7E97FA&logoColor=white"></a>
